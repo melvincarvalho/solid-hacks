@@ -4,6 +4,8 @@ description: Hacks for Solid
 
 # Solid Hacks
 
+### Introduction
+
 The solid platform is the most extensible scaled programming environment since the web itself. There are guides, tutorials and demos which give you a flavour of what Solid can do. But to get the most out of Solid, you need to know how to push the platform to its limits.  
 
 Solid hacks shows you how to have the most satisfying web experience ever.  You dont need programming experience, the ability to click, drag files and edit files will enable you to combine apps data and functionality in new innovative ways.
