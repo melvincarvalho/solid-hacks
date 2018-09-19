@@ -4,6 +4,8 @@ description: Hacks for Solid
 
 # Solid Hacks
 
+![](.gitbook/assets/solid-neon%20%281%29.png)
+
 ### Introduction
 
 The [solid](https://solid.mit.edu/\) platform is the most extensible scaled programming environment since the web itself. There are guides, tutorials and demos which give you a flavour of what Solid can do. But to get the most out of Solid, you need to know how to push the platform to its limits.  
