@@ -10,7 +10,7 @@ The solid platform is the most extensible scaled programming environment since t
 
 Solid hacks shows you how to have the most satisfying web experience ever.  You dont need programming ability, just the ability to click, drag and drop files, and edit text, will enable you to combine apps data and functionality in new innovative ways.
 
-This book covers but a fraction of what is possible in solid.  It hopefully illustrates some interesting tips and tricks, however, more importantly, can influence you to create and mash up all these capabilities into new discoveries.
+This book covers but a fraction of what is possible in solid.  It hopefully illustrates some interesting tips and tricks.  However, more importantly, can influence you to create and mash up all these capabilities into new discoveries.
 
-The book is organized in no particular order.  It assumes familiarity with the basics of solid, that you have an account, and have used the data browser.  Contributions are welcome to new chapters.  So without further ado, let's begin!
+The book is organized in no particular order.  It assumes familiarity with the basics of solid, that you have an account, and have used the [data browser](https://github.com/solid/userguide).  Contributions are welcome to new chapters.  So without further ado, let's begin!
 
