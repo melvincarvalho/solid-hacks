@@ -6,4 +6,5 @@
 * [Solid from the Command Line](solid-from-the-command-line.md)
 * [Creating a Personal Diary](creating-a-personal-diary.md)
 * [Creating a Slideshow](creating-a-slideshow.md)
+* [Hosting a Web Page On Your Pod](hosting-a-web-page-on-your-pod.md)
 
