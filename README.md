@@ -6,9 +6,9 @@ description: Hacks for Solid
 
 ### Introduction
 
-The solid platform is the most extensible scaled programming environment since the web itself. There are guides, tutorials and demos which give you a flavour of what Solid can do. But to get the most out of Solid, you need to know how to push the platform to its limits.  
+The [solid](https://solid.mit.edu/\) platform is the most extensible scaled programming environment since the web itself. There are guides, tutorials and demos which give you a flavour of what Solid can do. But to get the most out of Solid, you need to know how to push the platform to its limits.  
 
-Solid hacks shows you how to have the most satisfying web experience ever.  You dont need programming ability, just the ability to click, drag and drop files, and edit text, will enable you to combine apps data and functionality in new innovative ways.
+Solid hacks shows you how to have the most satisfying web experience ever.  You dont need programming ability, just the ability to click, drag and drop files, and edit text, will enable you to combine apps, data and functionality in new innovative ways.
 
 This book covers but a fraction of what is possible in solid.  It hopefully illustrates some interesting tips and tricks.  However, more importantly, it can influence you to create and mash up all these capabilities into new discoveries.
 
