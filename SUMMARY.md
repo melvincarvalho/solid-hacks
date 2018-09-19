@@ -7,4 +7,5 @@
 * [Solid from the Command Line](solid-from-the-command-line.md)
 * [Creating a Personal Diary](creating-a-personal-diary.md)
 * [Creating a Slideshow](creating-a-slideshow.md)
+* [Creating a Realtime Markdown Editor](creating-a-realtime-markdown-editor.md)
 
