@@ -10,6 +10,6 @@
 * [Creating a Realtime Markdown Editor](creating-a-realtime-markdown-editor.md)
 * [Single page apps in a Gist](single-page-apps-in-a-gist.md)
 * [Creating an Audio playlist](creating-an-audio-playlist.md)
-* [Appendix A : Solid Resources](appendix-a-solid-resources.md)
 * [Create a presentation from text](create-a-presentation-from-text.md)
+* [Appendix A : Solid Resources](appendix-a-solid-resources.md)
 
