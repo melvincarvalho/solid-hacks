@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod couldnt be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
+This hack enables you to host traditional web pages on your Solid pod.  Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod couldn't be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
 
 ### The Hack
 
