@@ -7,12 +7,25 @@ This hack enables you to use your solid pod as a URL shortener.  There are many 
 ### The Hack
 
 1. Open source tab
-2. Create a new file xxx.html
+2. Create a new file xxx.html in a given directory
 3. Add the code
 
 ```text
 <script>location.href="<URL>"</script>
 ```
+
+### Pro Tips
+
+Suggested locations are 
+
+```text
+ROOT/public/e/
+ROOT/e/
+```
+
+ Perhaps "e" for expand?  The principle of shortening to keep the saved URL short.
+
+  The shortner can also double as a URL redirector.  This has lots of unexpected reuse, as we shall see later!
 
 ### See Also
 
