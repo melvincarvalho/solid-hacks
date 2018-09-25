@@ -12,4 +12,5 @@
 * [Creating an Audio playlist](creating-an-audio-playlist.md)
 * [Create a presentation from text](create-a-presentation-from-text.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
+* [Creating Group URIs](creating-group-uris.md)
 
