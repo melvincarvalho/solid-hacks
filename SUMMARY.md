@@ -13,6 +13,6 @@
 * [Create a presentation from text](create-a-presentation-from-text.md)
 * [Creating Group URIs](creating-group-uris.md)
 * [Creating chat rooms and teleconferencing](creating-chat-rooms-and-teleconferencing.md)
-* [Integrating Solid with Mastodon](integrating-solid-with-mastodon.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
+* [Integrating Solid with Mastodon](integrating-solid-with-mastodon.md)
 
