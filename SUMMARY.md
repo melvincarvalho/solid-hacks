@@ -15,5 +15,6 @@
 * [Creating chat rooms and teleconferencing](creating-chat-rooms-and-teleconferencing.md)
 * [Integrating Solid with Mastodon](integrating-solid-with-mastodon.md)
 * [Integrating Solid with Facebook](integrating-solid-with-facebook.md)
+* [Integrating with Amazon S3](integrating-with-amazon-s3.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
 
