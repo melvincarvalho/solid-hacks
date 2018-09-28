@@ -1,4 +1,8 @@
 # Creating a Personal Diary
 
-Coming Soon
+Work in progress
+
+Start a longchat in the databrowser
+
+
 
