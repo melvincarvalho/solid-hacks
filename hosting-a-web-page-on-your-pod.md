@@ -35,5 +35,3 @@ And click the green tick.  Congratulations, you have now published your first we
 
 ### Demo
 > [https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
-
-
