@@ -29,11 +29,11 @@ Solid World!
 
 And click the green tick.  Congratulations, you have now published your first web page to solid!
 
+**Tip 1** Drag and drop a file to the green plus and it will be uploaded to that directory.
+
+**Tip 2** If you want to start a site within the _mysite_ folder, you can name the HTML file ``index.html`` and this way the contents of the folder will not be shown as a Solid Pod folder, but your HTML file will be used instead. 
+
 ### Demo
+> [https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
 
-[https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
-
-### Next Steps
-
-Next we'll introduce how to upload images and other files to your pod hosted web page.
 
