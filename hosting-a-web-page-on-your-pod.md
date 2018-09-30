@@ -2,15 +2,20 @@
 
 ### Introduction
 
-This hack enables you to host traditional web pages on your Solid pod.  Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod couldn't be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
+This hack enables you to host traditional web pages on your Solid pod.  Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod is free and couldn't be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
+
+We're going to create public web page hosted on your Solid pod, which can be accessed from:
+
+    https://{yourname.solidpod}/public/mysite/webpage.html
 
 ### The Hack
 
-Browse to your solid pod.  Now, go to your public folder and click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the source icon.
+Browse to your solid pod. Since you want to offer your web page to everyone on the Internet go to your ``public`` folder.
+Within your ``public`` folder click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the ``folder`` icon and give this new folder the name _mysite_. Now click the new green + sign within the _mysite_ folder and create a new ``source`` by clicking the icon and give this the name ``webpage.html``.
 
 ![Create a webpage with the databrowser](.gitbook/assets/hacks-webpage.png)
 
-This will create a file webpage.html in your folder.  Expand webpage.html and hover over the top which will give you the ability to edit the source.
+This will create a file ``webpage.html`` in your public _mysite_ folder.  Expand webpage.html and hover over the top which will give you the ability to edit the source.
 
 ![Edit webpage source](.gitbook/assets/hacks-webpage-edit.png)
 
@@ -27,4 +32,8 @@ And click the green tick.  Congratulations, you have now published your first we
 ### Demo
 
 [https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
+
+### Next Steps
+
+Next we'll introduce how to upload images and other files to your pod hosted web page.
 
