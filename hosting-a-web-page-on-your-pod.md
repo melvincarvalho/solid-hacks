@@ -28,3 +28,11 @@ And click the green tick.  Congratulations, you have now published your first we
 
 [https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
 
+### Advanced
+
+For fun, try and create some of the short files here!
+
+[http://aem1k.com/](http://aem1k.com/)
+
+### 
+
