@@ -10,15 +10,15 @@ We're going to create public web page hosted on your Solid pod, which can be acc
 
 ### The Hack
 
-Browse to your solid pod.  Now, go to your public folder and click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the source icon.
+Browse to your solid pod. Since you want to offer your web page to everyone on the Internet go to your `public` folder. Within your `public` folder click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the `folder` icon and give this new folder the name _mysite_. Now click the new green + sign within the _mysite_ folder and create a new `source` by clicking the icon and give this the name `webpage.html`.
 
 ![Create a webpage with the databrowser](.gitbook/assets/hacks-webpage.png)
 
-This will create a file webpage.html in your folder.  Expand webpage.html and hover over the top which will give you the ability to edit the source.
+This will create a file `webpage.html` in your public _mysite_ folder. Expand webpage.html and hover over the top which will give you the ability to edit the source.
 
 ![Edit webpage source](.gitbook/assets/hacks-webpage-edit.png)
 
-In the textbox type in something \(or paste\) something suitably kitch.  Example
+In the textbox type in something \(or paste\) something suitably kitch. Example
 
 ```text
 <h2>Hello</h2>
@@ -26,11 +26,15 @@ In the textbox type in something \(or paste\) something suitably kitch.  Example
 Solid World!
 ```
 
-And click the green tick.  Congratulations, you have now published your first web page to solid!
+And click the green tick. Congratulations, you have now published your first web page to solid!
+
+**Tip 1** Drag and drop a file to the green plus and it will be uploaded to that directory.
+
+**Tip 2** If you want to start a site within the _mysite_ folder, you can name the HTML file `index.html` and this way the contents of the folder will not be shown as a Solid Pod folder, but your HTML file will be used instead.
 
 ### Demo
 
-[https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
+> [https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)
 
 ### Exercises
 
