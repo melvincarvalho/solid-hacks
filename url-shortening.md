@@ -29,7 +29,7 @@ ROOT/e/
 
 ### See Also
 
-Wikipedia article : [https://en.wikipedia.org/wiki/URL\_shortening](https://en.wikipedia.org/wiki/URL_shortening)
+> Wikipedia article : [https://en.wikipedia.org/wiki/URL\_shortening](https://en.wikipedia.org/wiki/URL_shortening)
 
 
 
