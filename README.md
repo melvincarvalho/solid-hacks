@@ -14,7 +14,7 @@ Solid hacks shows you how to have the most satisfying web experience ever.  You 
 
 This book covers but a fraction of what is possible in solid.  It hopefully illustrates some interesting tips and tricks.  However, more importantly, it can influence you to create and mash up all these capabilities into new discoveries.
 
-The book is organized in no particular order.  It assumes familiarity with the basics of solid.  That you have a Solid account, and have used the [data browser](https://github.com/solid/userguide).  Contributions are welcome to new chapters.  
+The book is organized in no particular order.  It assumes familiarity with the basics of solid.  That you have a Solid account, and have used the [data browser](https://github.com/solid/userguide).  If not please review [Appendix A](https://solid.gitbook.io/solid-hacks/appendix-a-solid-resources).  Contributions are welcome to new chapters.  
 
 So without further ado, let's begin!
 
