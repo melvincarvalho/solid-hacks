@@ -22,5 +22,7 @@ Your final result should be a game like the link below.
 
 ### Excercise
 
-* Find the parent gist on github and star it.
+Find the parent gist on github and star it.
+
+
 
