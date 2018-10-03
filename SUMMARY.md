@@ -9,6 +9,7 @@
 * [Creating a Personal Diary](creating-a-personal-diary.md)
 * [Creating a Slideshow](creating-a-slideshow.md)
 * [Creating a Realtime Markdown Editor](creating-a-realtime-markdown-editor.md)
+* [Hosting a pod on your own domain with CNAME](hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Single page apps in a Gist](single-page-apps-in-a-gist.md)
 * [Creating an Audio playlist](creating-an-audio-playlist.md)
 * [Create a presentation from text](create-a-presentation-from-text.md)
@@ -18,5 +19,4 @@
 * [Integrating Solid with Facebook](integrating-solid-with-facebook.md)
 * [Integrating with Amazon S3](integrating-with-amazon-s3.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
-* [Hosting a pod on your own domain with CNAME](hosting-a-pod-on-your-own-domain-with-cname.md)
 
