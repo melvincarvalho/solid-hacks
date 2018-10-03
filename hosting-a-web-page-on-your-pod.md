@@ -4,6 +4,10 @@
 
 This hack enables you to host traditional web pages on your Solid pod.  Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod couldn't be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
 
+We're going to create public web page hosted on your Solid pod, which can be accessed from: 
+
+[https://{yourname.solidpod}/public/mysite/webpage.html](https://{yourname.solidpod}/public/mysite/webpage.html)
+
 ### The Hack
 
 Browse to your solid pod.  Now, go to your public folder and click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the source icon.
