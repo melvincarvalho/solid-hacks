@@ -23,5 +23,5 @@ Your final result should be a game like the link below.
 
 ### Excercise
 
-Find another one page game on the web, and host it in your games folder.
+* Find the parent gist on github and star it.
 
