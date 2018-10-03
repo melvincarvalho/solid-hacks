@@ -2,6 +2,7 @@
 
 * [Solid Hacks](README.md)
 * [Hosting a Web Page On Your Pod](hosting-a-web-page-on-your-pod.md)
+* [Hosting a One Page Game](hosting-a-one-page-game.md)
 * [URL Shortening](url-shortening.md)
 * [Hosting Snippets](hosting-snippets.md)
 * [Solid from the Command Line](solid-from-the-command-line.md)
