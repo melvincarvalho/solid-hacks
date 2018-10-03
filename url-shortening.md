@@ -19,13 +19,13 @@ This hack enables you to use your solid pod as a URL shortener.  There are many 
 Suggested locations are 
 
 ```text
-ROOT/public/e/
-ROOT/e/
+ROOT/public/u/
+ROOT/u/
 ```
 
- Perhaps "e" for expand?  The principle of shortening to keep the saved URL short.
+ Perhaps `u` for URL shortener?  The principle of shortening to keep the saved URL short.
 
-  The shortner can also double as a URL redirector.  This has lots of unexpected reuse, as we shall see later!
+  The shortener can also double as a URL redirector.  This has lots of unexpected reuse, as we shall see later!
 
 ### See Also
 
