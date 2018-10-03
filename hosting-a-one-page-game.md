@@ -19,7 +19,7 @@ Your final result should be a game like the link below.
 
 ### Demo
 
-​[https://solidhacks.solid.community/public/demos/webpage.html](https://solidhacks.solid.community/public/demos/webpage.html)​
+[https://solidhacks.solid.community/public/games/packman.html](https://solidhacks.solid.community/public/games/packman.html)
 
 ### Excercise
 
