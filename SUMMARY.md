@@ -19,4 +19,5 @@
 * [Integrating Solid with Facebook](integrating-solid-with-facebook.md)
 * [Integrating with Amazon S3](integrating-with-amazon-s3.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
+* [Appendix B : Solid Communities](appendix-b-solid-communities.md)
 
