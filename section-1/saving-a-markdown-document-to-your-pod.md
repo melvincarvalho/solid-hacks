@@ -1,4 +1,4 @@
 # Saving a Markdown Document to Your Pod
 
-Thank you for reading this far! This and further chapters are a work in progress. Coming soon!
+This hack combines two previous hacks.  Creating a Realtime Markdown Editor and URL shortening.
 
