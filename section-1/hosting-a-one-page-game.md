@@ -4,7 +4,7 @@
 
 This hack builds on the previous hack.
 
-> [https://solid.gitbook.io/solid-hacks/hosting-a-web-page-on-your-pod](https://solid.gitbook.io/solid-hacks/hosting-a-web-page-on-your-pod)
+> [https://solid.gitbook.io/solid-hacks/section-1/hosting-a-web-page-on-your-pod](https://solid.gitbook.io/solid-hacks/section-1/hosting-a-web-page-on-your-pod)
 
 However this time we will create a one page pacman game
 
