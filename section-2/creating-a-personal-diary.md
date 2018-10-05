@@ -1,8 +1,4 @@
 # Creating a Personal Diary
 
-Work in progress
-
-Start a longchat in the databrowser
-
-
+Thank you for reading this far.  This and following chapters are coming soon.
 
