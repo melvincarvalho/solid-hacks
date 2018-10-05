@@ -14,7 +14,7 @@ Browse to your solid pod.  Within your `public` create a webpage called markdown
 
 Cut and paste the following file to your page. 
 
-\| [https://raw.githubusercontent.com/jbt/markdown-editor/master/index.html](https://raw.githubusercontent.com/jbt/markdown-editor/master/index.html)
+> [https://raw.githubusercontent.com/jbt/markdown-editor/master/index.html](https://raw.githubusercontent.com/jbt/markdown-editor/master/index.html)
 
 However we are going to add one additional line to mimic the base.  Beneath the HTML tag add.
 
