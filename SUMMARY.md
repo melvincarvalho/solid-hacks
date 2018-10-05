@@ -11,7 +11,7 @@
 * [Saving a Markdown Document to Your Pod](section-1/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](section-1/hosting-snippets.md)
 
-## Section 2 - Using Panes
+## Section 2 - Working With Panes
 
 * [Creating a Personal Diary](section-2/creating-a-personal-diary.md)
 * [Single page apps in a Gist](section-2/single-page-apps-in-a-gist.md)
