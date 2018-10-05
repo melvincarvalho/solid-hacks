@@ -4,7 +4,7 @@
 
 This hack again builds on the previous hack.
 
-> [https://solid.gitbook.io/solid-hacks/hosting-a-web-page-on-your-pod](https://solid.gitbook.io/solid-hacks/hosting-a-web-page-on-your-pod)
+> [https://solid.gitbook.io/solid-hacks/section-1/hosting-a-web-page-on-your-pod](https://solid.gitbook.io/solid-hacks/section-1/hosting-a-web-page-on-your-pod)
 
 This time we will create a realtime markdown editor.  This page is more complex and contains several files.  However there is a trick that will enable us to use the same one page pattern as before.  And that is to use the `<base>` tag.
 
