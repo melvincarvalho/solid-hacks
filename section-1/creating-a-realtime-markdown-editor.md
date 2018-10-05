@@ -18,7 +18,7 @@ Cut and paste the following file to your page.
 
 However we are going to add one additional line to mimic the base.  Beneath the HTML tag add.
 
-`<base href="`[`http://jbt.github.io/markdown-editor/`](http://jbt.github.io/markdown-editor/)`">`
+`<base href="`[`https://jbt.github.io/markdown-editor/`](https://jbt.github.io/markdown-editor/)`">`
 
 And we're done.  Congratulations, you have now made a useful app.  A realtime markdown editor!
 
