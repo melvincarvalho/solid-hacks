@@ -4,12 +4,12 @@
 
 ## Section 1 - Static Pages
 
-* [Hosting a Web Page On Your Pod](section-1/hosting-a-web-page-on-your-pod.md)
-* [Hosting a One Page Game](section-1/hosting-a-one-page-game.md)
-* [URL Shortening](section-1/url-shortening.md)
-* [Creating a Realtime Markdown Editor](section-1/creating-a-realtime-markdown-editor.md)
-* [Saving a Markdown Document to Your Pod](section-1/saving-a-markdown-document-to-your-pod.md)
-* [Hosting Snippets](section-1/hosting-snippets.md)
+* [Hosting a Web Page On Your Pod](static-pages/hosting-a-web-page-on-your-pod.md)
+* [Hosting a One Page Game](static-pages/hosting-a-one-page-game.md)
+* [URL Shortening](static-pages/url-shortening.md)
+* [Creating a Realtime Markdown Editor](static-pages/creating-a-realtime-markdown-editor.md)
+* [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
+* [Hosting Snippets](static-pages/hosting-snippets.md)
 
 ## Section 2 - Working With Panes
 
