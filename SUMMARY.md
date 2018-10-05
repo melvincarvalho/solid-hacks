@@ -13,21 +13,25 @@
 
 ## Section 2
 
-* [Solid from the Command Line](section-2/solid-from-the-command-line.md)
 * [Creating a Personal Diary](section-2/creating-a-personal-diary.md)
-* [Hosting a pod on your own domain with CNAME](section-2/hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Single page apps in a Gist](section-2/single-page-apps-in-a-gist.md)
 * [Creating a Slideshow](section-2/creating-a-slideshow.md)
 * [Creating an Audio playlist](section-2/creating-an-audio-playlist.md)
 * [Create a presentation from text](section-2/create-a-presentation-from-text.md)
-* [Creating Group URIs](section-2/creating-group-uris.md)
-* [Creating chat rooms and teleconferencing](section-2/creating-chat-rooms-and-teleconferencing.md)
 
-## Section 3
+## Section 3 - Hooks
 
-* [Integrating Solid with Mastodon](section-3/integrating-solid-with-mastodon.md)
-* [Integrating Solid with Facebook](section-3/integrating-solid-with-facebook.md)
-* [Integrating with Amazon S3](section-3/integrating-with-amazon-s3.md)
+* [Solid from the Command Line](section-3/solid-from-the-command-line.md)
+* [Hosting a pod on your own domain with CNAME](section-3/hosting-a-pod-on-your-own-domain-with-cname.md)
+* [Creating Group URIs](section-3/creating-group-uris.md)
+* [Creating chat rooms and teleconferencing](section-3/creating-chat-rooms-and-teleconferencing.md)
+* [Untitled](section-3/untitled.md)
+
+## Section 4 - Integrations
+
+* [Integrating Solid with Mastodon](section-4/integrating-solid-with-mastodon.md)
+* [Integrating Solid with Facebook](section-4/integrating-solid-with-facebook.md)
+* [Integrating with Amazon S3](section-4/integrating-with-amazon-s3.md)
 
 ## Appendices
 
