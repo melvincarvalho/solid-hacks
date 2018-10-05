@@ -2,7 +2,7 @@
 
 * [Solid Hacks](README.md)
 
-## Section 1
+## Section 1 - Static Pages
 
 * [Hosting a Web Page On Your Pod](section-1/hosting-a-web-page-on-your-pod.md)
 * [Hosting a One Page Game](section-1/hosting-a-one-page-game.md)
