@@ -1,5 +1,7 @@
 # Creating a Realtime Markdown Editor
 
+### ![](../.gitbook/assets/markdown.png)  {#introduction}
+
 ### Introduction {#introduction}
 
 This hack again builds on the previous hack.
