@@ -14,8 +14,6 @@ This hack enables you to use your solid pod as a URL shortener.  There are many 
 <script>location.href="<URL>"</script>
 ```
 
-### 
-
 **Tip 1** Suggested locations are 
 
 ```text
