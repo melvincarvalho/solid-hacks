@@ -32,5 +32,7 @@ Save it as neon.html and you should have your first saved code snippet on your p
 
 > [https://solidhacks.solid.community/public/demos/neon.html](https://solidhacks.solid.community/public/demos/neon.html)
 
+**Tip 1** : It is now possible in this way to run arbitrary code in your solid pod, which can interact with other services \(including solid!\).  Here is an example:
 
+> [https://solidhacks.solid.community/public/u/reddit.html](https://solidhacks.solid.community/public/u/reddit.html)
 

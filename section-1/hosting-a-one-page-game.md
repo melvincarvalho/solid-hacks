@@ -20,7 +20,7 @@ Your final result should be a game like the link below.
 
 > [https://solidhacks.solid.community/public/games/pacman.html](https://solidhacks.solid.community/public/games/pacman.html)
 
-### Excercise
+### Excercises
 
 Find the parent gist on github and star it.
 
