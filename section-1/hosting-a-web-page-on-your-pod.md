@@ -12,11 +12,11 @@ We're going to create public web page hosted on your Solid pod, which can be acc
 
 Browse to your solid pod. Since you want to offer your web page to everyone on the Internet go to your `public` folder. Within your `public` folder click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the `folder` icon and give this new folder the name _mysite_. Now click the new green + sign within the _mysite_ folder and create a new `source` by clicking the icon and give this the name `webpage.html`.
 
-![Create a webpage with the databrowser](.gitbook/assets/hacks-webpage.png)
+![Create a webpage with the databrowser](../.gitbook/assets/hacks-webpage.png)
 
 This will create a file `webpage.html` in your public _mysite_ folder. Expand webpage.html and hover over the top which will give you the ability to edit the source.
 
-![Edit webpage source](.gitbook/assets/hacks-webpage-edit.png)
+![Edit webpage source](../.gitbook/assets/hacks-webpage-edit.png)
 
 In the textbox type in something \(or paste\) something suitably kitch. Example
 

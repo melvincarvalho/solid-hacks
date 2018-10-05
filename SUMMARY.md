@@ -1,10 +1,6 @@
 # Table of contents
 
 * [Solid Hacks](README.md)
-* [Hosting a Web Page On Your Pod](hosting-a-web-page-on-your-pod.md)
-* [Hosting a One Page Game](hosting-a-one-page-game.md)
-* [URL Shortening](url-shortening.md)
-* [Creating a Realtime Markdown Editor](creating-a-realtime-markdown-editor.md)
 * [Saving a Markdown Document to Your Pod](saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](hosting-snippets.md)
 * [Solid from the Command Line](solid-from-the-command-line.md)
@@ -21,4 +17,13 @@
 * [Integrating with Amazon S3](integrating-with-amazon-s3.md)
 * [Appendix A : Solid Resources](appendix-a-solid-resources.md)
 * [Appendix B : Solid Communities](appendix-b-solid-communities.md)
+
+## Section 1
+
+* [Hosting a Web Page On Your Pod](section-1/hosting-a-web-page-on-your-pod.md)
+* [Hosting a One Page Game](section-1/hosting-a-one-page-game.md)
+* [URL Shortening](section-1/url-shortening.md)
+* [Creating a Realtime Markdown Editor](section-1/creating-a-realtime-markdown-editor.md)
+
+## Section 2
 
