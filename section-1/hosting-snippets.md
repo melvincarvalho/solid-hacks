@@ -18,6 +18,8 @@ In a similar way to creating a markdown editor create a minimalist code pen usin
 
 Save it as `snippet.html` It should look something like this.
 
+> [https://solidhacks.solid.community/public/demos/snippet.html](https://solidhacks.solid.community/public/demos/snippet.html)
+
 Next we're going to use the query string to shorten some code.  Create a shortened url, `neon.html`
 
 With the following long URL :
