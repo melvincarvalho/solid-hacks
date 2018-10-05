@@ -1,5 +1,7 @@
 # Hosting Snippets
 
+![Example of a Reddit Codepen](../.gitbook/assets/reddit.png)
+
 ### Introduction
 
 This hack allows you to host snippets of code and display them in realtime.  It is built in the same way as the Saving a Markdown.  It builds on the following 2 hacks.
