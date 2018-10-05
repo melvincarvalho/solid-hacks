@@ -14,7 +14,6 @@
 ## Section 2 - Working With Panes
 
 * [Creating a Personal Diary](section-2/creating-a-personal-diary.md)
-* [Single page apps in a Gist](section-2/single-page-apps-in-a-gist.md)
 * [Creating a Slideshow](section-2/creating-a-slideshow.md)
 * [Creating an Audio playlist](section-2/creating-an-audio-playlist.md)
 * [Create a Presentation From Text](section-2/create-a-presentation-from-text.md)
