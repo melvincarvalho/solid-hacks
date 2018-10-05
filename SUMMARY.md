@@ -11,19 +11,19 @@
 * [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](static-pages/hosting-snippets.md)
 
-## Chapter 2 - Working With Panes
+## Chapter 2 - Internediate Hacks
 
-* [Creating a Personal Diary](section-2/creating-a-personal-diary.md)
-* [Creating a Slideshow](section-2/creating-a-slideshow.md)
-* [Creating an Audio playlist](section-2/creating-an-audio-playlist.md)
-* [Create a Presentation From Text](section-2/create-a-presentation-from-text.md)
+* [Solid from the Command Line](intermediate-hacks/solid-from-the-command-line.md)
+* [Hosting a pod on your own domain with CNAME](intermediate-hacks/hosting-a-pod-on-your-own-domain-with-cname.md)
+* [Creating Group URIs](intermediate-hacks/creating-group-uris.md)
+* [Creating chat rooms and teleconferencing](intermediate-hacks/creating-chat-rooms-and-teleconferencing.md)
 
-## Chapter 3 - Hooks
+## Chapter 3 - Working With Panes
 
-* [Solid from the Command Line](section-3/solid-from-the-command-line.md)
-* [Hosting a pod on your own domain with CNAME](section-3/hosting-a-pod-on-your-own-domain-with-cname.md)
-* [Creating Group URIs](section-3/creating-group-uris.md)
-* [Creating chat rooms and teleconferencing](section-3/creating-chat-rooms-and-teleconferencing.md)
+* [Creating a Personal Diary](working-with-panes/creating-a-personal-diary.md)
+* [Creating a Slideshow](working-with-panes/creating-a-slideshow.md)
+* [Creating an Audio playlist](working-with-panes/creating-an-audio-playlist.md)
+* [Create a Presentation From Text](working-with-panes/create-a-presentation-from-text.md)
 
 ## Chapter 4 - Integrations
 
