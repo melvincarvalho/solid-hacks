@@ -1,5 +1,7 @@
 # Hosting a One Page Game
 
+### ![](../.gitbook/assets/pacman%20%282%29.png)  {#introduction}
+
 ### Introduction {#introduction}
 
 This hack builds on the previous hack.
