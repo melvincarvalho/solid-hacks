@@ -11,7 +11,7 @@
 * [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](static-pages/hosting-snippets.md)
 
-## Chapter 2 - Internediate Hacks
+## Chapter 2 - Intermediate Hacks
 
 * [Solid from the Command Line](intermediate-hacks/solid-from-the-command-line.md)
 * [Hosting a pod on your own domain with CNAME](intermediate-hacks/hosting-a-pod-on-your-own-domain-with-cname.md)
