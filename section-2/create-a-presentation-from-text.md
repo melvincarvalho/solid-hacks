@@ -1,4 +1,4 @@
-# Create a presentation from text
+# Create a Presentation From Text
 
 Coming Soon
 
