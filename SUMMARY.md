@@ -11,7 +11,7 @@
 * [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](static-pages/hosting-snippets.md)
 
-## Chapter 2 - Server Side Hacks
+## Chapter 2 - Working With Pods
 
 * [Solid from the Command Line](server/solid-from-the-command-line.md)
 * [Creating Group URIs](server/creating-group-uris.md)
