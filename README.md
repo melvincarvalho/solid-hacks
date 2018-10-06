@@ -8,7 +8,7 @@ description: Hacks for Solid
 
 ### Preface
 
-This book assumes familiarity with the basics of [solid](https://solid.mit.edu/).  That you have a solid account, and have used the [data browser](https://github.com/solid/userguide).  If not please review [Appendix A](https://solid.gitbook.io/solid-hacks/appendix-a-solid-resources), before starting.  _Solid Hacks is a Work In Progress_.
+This book assumes familiarity with the basics of [solid](https://solid.mit.edu/).  That you have a solid pod, and have used the [data browser](https://github.com/solid/userguide).  If not, please review [Appendix A](https://solid.gitbook.io/solid-hacks/appendix-a-solid-resources), before starting.  _Solid Hacks is a Work In Progress_.
 
 ### Introduction
 
