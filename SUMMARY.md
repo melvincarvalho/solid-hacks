@@ -11,12 +11,12 @@
 * [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](static-pages/hosting-snippets.md)
 
-## Chapter 2 - Intermediate Hacks
+## Chapter 2 - Server Hacks
 
-* [Solid from the Command Line](intermediate-hacks/solid-from-the-command-line.md)
-* [Hosting a pod on your own domain with CNAME](intermediate-hacks/hosting-a-pod-on-your-own-domain-with-cname.md)
-* [Creating Group URIs](intermediate-hacks/creating-group-uris.md)
-* [Creating chat rooms and teleconferencing](intermediate-hacks/creating-chat-rooms-and-teleconferencing.md)
+* [Solid from the Command Line](server/solid-from-the-command-line.md)
+* [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
+* [Creating Group URIs](server/creating-group-uris.md)
+* [Creating chat rooms and teleconferencing](server/creating-chat-rooms-and-teleconferencing.md)
 
 ## Chapter 3 - Working With Panes
 
