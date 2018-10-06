@@ -14,8 +14,8 @@
 ## Chapter 2 - Server Side Hacks
 
 * [Solid from the Command Line](server/solid-from-the-command-line.md)
-* [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Creating Group URIs](server/creating-group-uris.md)
+* [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
 
 ## Chapter 3 - Working With Panes
 
