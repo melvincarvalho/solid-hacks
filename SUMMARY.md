@@ -11,12 +11,11 @@
 * [Saving a Markdown Document to Your Pod](static-pages/saving-a-markdown-document-to-your-pod.md)
 * [Hosting Snippets](static-pages/hosting-snippets.md)
 
-## Chapter 2 - Server Hacks
+## Chapter 2 - Server Side Hacks
 
 * [Solid from the Command Line](server/solid-from-the-command-line.md)
 * [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Creating Group URIs](server/creating-group-uris.md)
-* [Creating chat rooms and teleconferencing](server/creating-chat-rooms-and-teleconferencing.md)
 
 ## Chapter 3 - Working With Panes
 
@@ -30,6 +29,7 @@
 * [Integrating Solid with Mastodon](section-4/integrating-solid-with-mastodon.md)
 * [Integrating Solid with Facebook](section-4/integrating-solid-with-facebook.md)
 * [Integrating with Amazon S3](section-4/integrating-with-amazon-s3.md)
+* [Integrating With Jitsi](section-4/creating-chat-rooms-and-teleconferencing.md)
 
 ## Appendices
 
