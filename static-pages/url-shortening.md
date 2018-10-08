@@ -21,7 +21,7 @@ POD_ROOT/public/u/
 POD_ROOT/u/
 ```
 
- Perhaps `u` for URL shortener?  The principle of shortening to keep the saved URL short.
+ Perhaps `u` for URL shortener?  
 
 **Tip 2** The shortener can also double as a URL redirector.  This has lots of unexpected reuse, as we shall see later!
 
