@@ -14,6 +14,8 @@ This hack enables you to use your solid pod as a URL shortener.  There are many 
 <script>location.href="<URL>"</script>
 ```
 
+Now when you click on that file it will take you to the longer URL.   And we're done!
+
 **Tip 1** The idea behind short urls is that urls should be as short as possible. So when thinking about a place to put your short urls, we could standardize around a directory with as few characters as possible. Possible places to put this would be
 
 ```text
