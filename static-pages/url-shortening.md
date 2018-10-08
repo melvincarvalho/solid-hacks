@@ -14,11 +14,11 @@ This hack enables you to use your solid pod as a URL shortener.  There are many 
 <script>location.href="<URL>"</script>
 ```
 
-**Tip 1** Suggested locations are 
+**Tip 1** The idea behind short urls is that urls should be as short as possible. So when thinking about a place to put your short urls, we could standardize around a directory with as few characters as possible. Possible places to put this would be
 
 ```text
-ROOT/public/u/
-ROOT/u/
+POD_ROOT/public/u/
+POD_ROOT/u/
 ```
 
  Perhaps `u` for URL shortener?  The principle of shortening to keep the saved URL short.
