@@ -19,6 +19,7 @@
 **Pods**
 
 *  [Get a Solid Pod](https://solid.inrupt.com/get-a-solid-pod)
+*  [Join Solid](https://joinsolid.org)
 *  [Installing a Pod Server](https://solid.inrupt.com/docs/installing-running-nss)
 
 **Apps**
