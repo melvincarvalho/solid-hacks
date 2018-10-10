@@ -16,6 +16,7 @@
 * [Solid from the Command Line](server/solid-from-the-command-line.md)
 * [Creating Group URIs](server/creating-group-uris.md)
 * [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
+* [Interacting With Crawlers](server/interacting-with-crawlers.md)
 
 ## Chapter 3 - Working With Panes
 
