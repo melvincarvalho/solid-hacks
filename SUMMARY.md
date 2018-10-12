@@ -36,4 +36,5 @@
 
 * [Appendix A : Solid Resources](appendices/appendix-a-solid-resources.md)
 * [Appendix B : Solid Communities](appendices/appendix-b-solid-communities.md)
+* [Appendix C : Utilities](appendices/appendix-c-utilities.md)
 
