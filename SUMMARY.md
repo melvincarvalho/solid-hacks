@@ -17,6 +17,7 @@
 * [Creating Group URIs](server/creating-group-uris.md)
 * [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Interacting With Crawlers](server/interacting-with-crawlers.md)
+* [Logging in with a Public Key](server/logging-in-with-a-public-key.md)
 
 ## Chapter 3 - Working With Panes
 
