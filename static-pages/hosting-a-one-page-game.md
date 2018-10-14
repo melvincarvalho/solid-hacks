@@ -28,7 +28,7 @@ Your final result should be a game like the link below.
 
 > Try the following [13kjs](https://blog.github.com/2018-10-05-js13kgames-highlights-2018/) game
 >
-> [https://blog.github.com/2018-10-05-js13kgames-highlights-2018/](https://blog.github.com/2018-10-05-js13kgames-highlights-2018/)
+> [https://js13kgames.com/games/1024-moves/index.html](https://js13kgames.com/games/1024-moves/index.html)
 
 
 
