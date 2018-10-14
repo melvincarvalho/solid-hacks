@@ -24,7 +24,11 @@ Your final result should be a game like the link below.
 
 ### Excercises
 
-Find the parent gist on github and star it.
+> Find the parent gist on github and star it.
+
+> Try the following [13kjs](https://blog.github.com/2018-10-05-js13kgames-highlights-2018/) game
+>
+> [https://blog.github.com/2018-10-05-js13kgames-highlights-2018/](https://blog.github.com/2018-10-05-js13kgames-highlights-2018/)
 
 
 
