@@ -14,6 +14,7 @@
 ## Chapter 2 - Working With Pods
 
 * [Solid from the Command Line](server/solid-from-the-command-line.md)
+* [Solid from the Console](server/solid-from-the-console.md)
 * [Creating Group URIs](server/creating-group-uris.md)
 * [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
 * [Interacting With Crawlers](server/interacting-with-crawlers.md)
