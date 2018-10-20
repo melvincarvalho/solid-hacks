@@ -13,12 +13,12 @@
 
 ## Chapter 2 - Working With Pods
 
-* [Solid from the Command Line](server/solid-from-the-command-line.md)
-* [Solid from the Console](server/solid-from-the-console.md)
-* [Creating Group URIs](server/creating-group-uris.md)
-* [Hosting a pod on your own domain with CNAME](server/hosting-a-pod-on-your-own-domain-with-cname.md)
-* [Interacting With Crawlers](server/interacting-with-crawlers.md)
-* [Logging in with a Public Key](server/logging-in-with-a-public-key.md)
+* [Solid from the Command Line](pods/solid-from-the-command-line.md)
+* [Solid from the Console](pods/solid-from-the-console.md)
+* [Creating Group URIs](pods/creating-group-uris.md)
+* [Hosting a pod on your own domain with CNAME](pods/hosting-a-pod-on-your-own-domain-with-cname.md)
+* [Interacting With Crawlers](pods/interacting-with-crawlers.md)
+* [Logging in with a Public Key](pods/logging-in-with-a-public-key.md)
 
 ## Chapter 3 - Working With Panes
 
