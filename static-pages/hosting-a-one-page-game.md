@@ -1,8 +1,8 @@
 # Hosting a One Page Game
 
-### ![](../.gitbook/assets/pacman%20%282%29.png)  {#introduction}
+### ![](../.gitbook/assets/pacman%20%282%29.png)  <a id="introduction"></a>
 
-### Introduction {#introduction}
+### Introduction <a id="introduction"></a>
 
 This hack builds on the previous hack.
 
@@ -10,7 +10,7 @@ This hack builds on the previous hack.
 
 However this time we will create a one page pacman game
 
-### The Hack {#the-hack}
+### The Hack <a id="the-hack"></a>
 
 Once again created an html page in your pod, but this time call it pacman.html.  You may want to create a games directory too.  Edit the source again.  But this time you will cut and paste the code from the following github gist.
 

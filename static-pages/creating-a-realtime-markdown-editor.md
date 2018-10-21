@@ -1,8 +1,8 @@
 # Creating a Realtime Markdown Editor
 
-### ![](../.gitbook/assets/markdown.png)  {#introduction}
+### ![](../.gitbook/assets/markdown.png)  <a id="introduction"></a>
 
-### Introduction {#introduction}
+### Introduction <a id="introduction"></a>
 
 This hack again builds on the previous hack.
 
@@ -10,7 +10,7 @@ This hack again builds on the previous hack.
 
 This time we will create a realtime markdown editor.  This page is more complex and contains several files.  However there is a trick that will enable us to use the same one page pattern as before.  And that is to use the `<base>` tag.
 
-### The Hack {#the-hack}
+### The Hack <a id="the-hack"></a>
 
 Browse to your solid pod.  Within your `public` create a webpage called markdown.html with the databrowser.
 
@@ -24,7 +24,7 @@ However we are going to add one additional line to mimic the base.  Beneath the 
 
 And we're done.  Congratulations, you have now made a useful app.  A realtime markdown editor!
 
-### Demo {#demo}
+### Demo <a id="demo"></a>
 
 > [https://solidhacks.solid.community/public/demos/markdown.html](https://solidhacks.solid.community/public/demos/markdown.html)
 
