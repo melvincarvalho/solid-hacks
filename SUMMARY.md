@@ -30,6 +30,7 @@
 ## Chapter 4 - Integrations
 
 * [Integrating Solid with Mastodon](section-4/integrating-solid-with-mastodon.md)
+* [Integrating with IPFS](section-4/integrating-with-ipfs.md)
 * [Integrating Solid with Facebook](section-4/integrating-solid-with-facebook.md)
 * [Integrating with Amazon S3](section-4/integrating-with-amazon-s3.md)
 * [Integrating With Jitsi](section-4/creating-chat-rooms-and-teleconferencing.md)
