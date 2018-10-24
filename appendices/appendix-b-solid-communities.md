@@ -6,5 +6,9 @@ Solid Gitter Chat \(technical\) : [https://gitter.im/solid/chat](https://gitter.
 
 W3C Commuinty Group \(technical\) : [https://www.w3.org/community/solid/](https://www.w3.org/community/solid/)
 
-Stack overflor \(technical\) [https://stackoverflow.com/questions/tagged/solid](https://stackoverflow.com/questions/tagged/solid)
+Stack overflow \(technical\) [https://stackoverflow.com/questions/tagged/solid](https://stackoverflow.com/questions/tagged/solid)
+
+Solid Project dicourse Forum [https://forum.solidproject.org/](https://forum.solidproject.org/)
+
+
 
